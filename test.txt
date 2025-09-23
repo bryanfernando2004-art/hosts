@@ -1,2 +1,3 @@
-185.162.75.107 www.growtopia1.com
-185.162.75.107 www.growtopia2.com
+38.240.49.230 www.growtopia1.com
+
+38.240.49.230 www.growtopia2.com
