@@ -1,3 +1,4 @@
-38.240.49.230 www.growtopia1.com
+38.240.49.199 www.growtopia1.com
 
-38.240.49.230 www.growtopia2.com
+38.240.49.199 www.growtopia2.com
+
